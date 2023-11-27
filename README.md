@@ -7,8 +7,6 @@
 
 ![Switch effect sign in](https://res.cloudinary.com/dgm9zfiuo/image/upload/v1698860031/Portfolio%20projects/view_2_e507w0.png)
 
-## Project summary
-
 ### Technologies used
 * HTML
 * CSS
